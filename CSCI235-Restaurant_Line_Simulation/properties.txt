@@ -1,0 +1,20 @@
+# Number of cashiers in restaurant
+cashiers = 5
+# Number of lines for customers: must be “single” or “cashiers”
+lines = single
+# Number of customers per minute entering the restaurant
+hour7 = 10
+hour8 = 11
+hour9 = 5
+hour10 = 4
+hour11 = 4
+hour12 = 12
+hour13 = 15
+hour14 = 12
+hour15 = 10
+hour16 = 9
+hour17 = 9
+hour18 = 13
+hour19 = 10
+hour20 = 7
+hour21 = 4
